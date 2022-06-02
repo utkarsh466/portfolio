@@ -1,0 +1,52 @@
+.head {
+  text-align: center;
+  width: 100%;
+  font-size: 4rem;
+  user-select: none;
+  /* background-color: yellow; */
+  display: flex;
+  margin-bottom: 20px;
+  height: 65px;
+}
+.backarrow {
+  /* background-color: red; */
+  width: 40%;
+  display: flex;
+}
+.headText {
+  width: 60%;
+  /* background-color:blue; */
+  display: flex;
+}
+.backarrow a {
+  text-decoration: none;
+  color: black;
+  margin-left: 30px;
+}
+
+.content {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+.topText {
+  font-size: 100px;
+}
+.bodyText {
+  font-size: 30px;
+  margin-left: 40px;
+}
+.bodyText p {
+  padding: 20px;
+  width: 80%;
+}
+.bodyText ul {
+  list-style: none;
+  display: block;
+  margin-left: 40px;
+}
+.bodyText ul li {
+  display: block;
+  line-height: 40px;
+}

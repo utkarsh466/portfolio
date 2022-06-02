@@ -1,0 +1,1 @@
+alert("No blogs till now sorry!!!")

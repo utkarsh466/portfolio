@@ -1,0 +1,65 @@
+.head {
+  text-align: center;
+  width: 100%;
+  font-size: 4rem;
+  user-select: none;
+  /* background-color: yellow; */
+  display: flex;
+  margin-bottom: 20px;
+  height: 65px;
+}
+.backarrow {
+  /* background-color: red; */
+  width: 40%;
+  display: flex;
+}
+.headText {
+  width: 60%;
+  /* background-color:blue; */
+  display: flex;
+}
+.backarrow a {
+  text-decoration: none;
+  color: black;
+  margin-left: 30px;
+}
+
+.content {
+  background-color: #313336;
+  width: 67%; 
+  margin: auto;
+  border-radius: 18px;
+  height: 250vh;
+  padding: 50px;
+}
+
+.introBox{
+    font-size:40px;
+    margin-bottom:30px;
+    line-height: 60px;
+}
+.selfInfo{
+    font-size:30px;
+    margin-bottom:30px
+}
+.workInfo{
+    font-size:30px;
+    margin-bottom:30px
+}
+.leavingText{
+    font-size:30px;
+    margin-bottom:30px
+}
+.leavingText ul{
+  display: block;
+  /* width: 80%; */
+  /* background-color: red; */
+}
+.leavingText ul li{
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+.c ul li{
+  margin-left:100px;
+  /* background-color: red; */
+}

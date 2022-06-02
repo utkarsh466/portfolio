@@ -1,0 +1,1 @@
+alert('This page is not setuped for contacting till now, Contact via mail!!')
